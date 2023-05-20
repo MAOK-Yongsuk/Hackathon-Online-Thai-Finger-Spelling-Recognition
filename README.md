@@ -8,4 +8,4 @@ kaggle : https://www.kaggle.com/competitions/hackathon-thai-finger-spelling-reco
 | --- | --- | --- |
 | Good | Fairly Good  | Poor |
 
-No. 8 --> private_score 0.99079 💛
+No. 8 ---> private_score 0.99079 💛
